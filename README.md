@@ -1,5 +1,3 @@
----
-
 # DevGuard Studio — Next.js Production Landing Page
 
 **Enterprise Web Architecture & Cybersecurity Landing Platform**
